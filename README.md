@@ -70,7 +70,7 @@ All students in each group are required to present some material during the fina
 ## Schedule
 
 We will choose the specific list of papers that we will read based on popular vote in the first week of class.
-You can view the list of papers that we will choose from [here](https://github.com/craffel/dl3d-seminar/blob/master/paper-list.md).
+You can view the list of papers that we will choose from [here](https://github.com/craffel/dl3d-seminar/blob/master/papers.md).
 I will fill in the schedule with the papers we've chosen once we've voted.
 
 | Date | Content |
