@@ -55,4 +55,5 @@ If you are interested in reading a paper that is not on this list, don't worry, 
 | [Adversarial Training Methods for Semi-Supervised Text Classification](https://arxiv.org/abs/1605.07725) | Semi-Supervised Learning | NLP |
 | [Exploring the Limits of Weakly Supervised Pretraining](https://arxiv.org/abs/1805.00932) | Transfer Learning | CV |
 | [Regularization With Stochastic Transformations and Perturbations for Deep Semi-Supervised Learning](https://arxiv.org/abs/1606.04586) | Semi-Supervised Learning | CV |
+| [Semi-Supervised Learning with Normalizing Flows](https://arxiv.org/abs/1912.13025) | Semi-Supervised Learning | Many |
 
