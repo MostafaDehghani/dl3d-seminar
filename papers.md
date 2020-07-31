@@ -56,4 +56,5 @@ If you are interested in reading a paper that is not on this list, don't worry, 
 | [Exploring the Limits of Weakly Supervised Pretraining](https://arxiv.org/abs/1805.00932) | Transfer Learning | CV |
 | [Regularization With Stochastic Transformations and Perturbations for Deep Semi-Supervised Learning](https://arxiv.org/abs/1606.04586) | Semi-Supervised Learning | CV |
 | [Semi-Supervised Learning with Normalizing Flows](https://arxiv.org/abs/1912.13025) | Semi-Supervised Learning | Many |
+| [Large Scale Adversarial Representation Learning](https://arxiv.org/abs/1907.02544) | Transfer/Representation Learning | CV |
 
