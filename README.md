@@ -119,11 +119,8 @@ I will fill in the schedule with the papers we've chosen once we've voted.
 ## Attendance, late work, and the honor code
 
 If you miss a class without completing the corresponding assignment, you'll get a zero for that session.
-If you miss a class where you are in a "presenting" role for that session, you're still expected to create the presentation for that role.
-You'll also be responsible for finding someone else to present it.
-If you miss a class where you'd be in a "non-presenting" role, to get full credit for that session you need to complete the non-presenting assignment and let me know a day in advance.
-If you complete the non-presenting assignment but miss class, you'll receive at most half credit for that session.
-
+If you miss a class where you are in a "presenting" role for that session, you must still create the presentation for that role before the class and you must find someone else to present it for you.
+If you miss a class where you'd be in a "non-presenting" role, to get credit for that session you need to complete the non-presenting assignment and send it to me before the start of class.
 There's really no way to accept late work for the readings since it's vital that we're all reading the same papers at the same time.
 I also can't accept the final project after the scheduled final exam slot since you need to present it then.
 
