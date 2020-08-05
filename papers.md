@@ -6,7 +6,7 @@ If you are interested in reading a paper that is not on this list, don't worry, 
 | **Title** | **Approach** | **Domain** |
 |---|---|---|
 | [Semi-Supervised Learning with Deep Generative Models](https://arxiv.org/abs/1406.5298) | Semi-Supervised Learning | CV |
-| [Learning and Transferring Mid-Level Image Representationsusing Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Oquab_Learning_and_Transferring_2014_CVPR_paper.pdf) | Transfer Learning | CV |
+| [Learning and Transferring Mid-Level Image Representations using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Oquab_Learning_and_Transferring_2014_CVPR_paper.pdf) | Transfer Learning | CV |
 | [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792) | Transfer Learning | CV |
 | [Skip-Thought Vectors](https://arxiv.org/abs/1506.06726) | Transfer/Representation Learning | NLP |
 | [Semi-Supervised Sequence Learning](https://arxiv.org/abs/1511.01432) | Transfer Learning | NLP |
