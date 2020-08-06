@@ -37,7 +37,7 @@ All students will obtain a thorough understanding of the chosen papers and will 
 This seminar is organized around the different "roles" students play each week:
 Reviewer, Archaeologist, Researcher, Practitioner, Hacker, and Private Investigator.
 
-  - **Reviewer:** Complete a full---critical but not necessarily negative---review of the paper. Follow the [guidelines for NeurIPS reviewers](https://nips.cc/Conferences/2020/PaperInformation/ReviewerGuidelines) and in particular answer all of the questions under "Review Content".
+  - **Reviewer:** Complete a full---critical but not necessarily negative---review of the paper. Follow the [guidelines for NeurIPS reviewers](https://nips.cc/Conferences/2020/PaperInformation/ReviewerGuidelines), taking note of the example reviews included therein. In particular, please answer all of the questions under "Review Content" and assign an accept/reject decision. 
   - **Archaeologist:** Determine where this paper sits in the context of previous and subsequent work. Find and report on one prior paper that substantially influenced the current paper and one newer paper that cites this current paper.
   - **Researcher:** Propose an imaginary follow-up project -- not just based on the current but only possible due to the existence and success of the current paper.
   - **Practitioner:** Propose a new application for the method in the paper (not already discussed in class), and discuss at least one positive and negative impact of this application.
