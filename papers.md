@@ -26,7 +26,6 @@ If you are interested in reading a paper that is not on this list, don't worry, 
 | [Exploring the Limits of Weakly Supervised Pretraining](https://arxiv.org/abs/1805.00932) | Transfer Learning | CV |
 | [Do Better ImageNet Models Transfer Better?](https://arxiv.org/abs/1805.08974) | Transfer Learning | CV |
 | [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) | Transfer Learning | NLP |
-| [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748) | Transfer/Representation Learning | CV |
 | [Understanding Back-Translation at Scale](https://arxiv.org/abs/1808.09381) | Semi-Supervised Learning | NLP |
 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | Transfer Learning | NLP |
 | [Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks](https://arxiv.org/abs/1811.01088) | Transfer Learning | NLP |
@@ -59,5 +58,6 @@ If you are interested in reading a paper that is not on this list, don't worry, 
 | [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](https://arxiv.org/abs/2002.06305) | Transfer Learning | NLP |
 | [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/abs/2003.10555) | Transfer Learning | NLP |
 | [Rethinking Pre-training and Self-training](https://arxiv.org/abs/2006.06882) | Transfer and Semi-Supervised Learning | CV |
+| [Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/abs/2006.07733) | Transfer/Representation Learning | CV |
+| [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/abs/2006.09882) | Transfer/Representation Learning | CV |
 | [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029) | Semi-Supervised Learning | CV |
-
