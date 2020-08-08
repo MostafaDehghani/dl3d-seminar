@@ -50,6 +50,7 @@ If you are interested in reading a paper that is not on this list, don't worry, 
 | [Pseudo-Labeling and Confirmation Bias in Deep Semi-Supervised Learning](https://arxiv.org/abs/1908.02983) | Semi-Supervised Learning | CV |
 | [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.1194) | Transfer Learning | NLP |
 | [Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252) | Semi-Supervised Learning | CV |
+| [Fidelity-Weighted Learning](https://arxiv.org/abs/1711.02799) | Semi-Supervised Learning | NLP |
 | [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722) | Transfer/Representation Learning | CV |
 | [Big Transfer (BiT): General Visual Representation Learning](https://arxiv.org/abs/1912.11370) | Transfer Learning | CV |
 | [Semi-Supervised Learning with Normalizing Flows](https://arxiv.org/abs/1912.13025) | Semi-Supervised Learning | Many |
